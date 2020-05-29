@@ -1,0 +1,28 @@
+{
+  "name": "serverless-s3-bucket-clearer",
+  "version": "1.0.0",
+  "description": "Serverless plugin that deletes s3 bucket objects and delete markers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLAGR34GTT/serverless-s3-bucket-clearer.git"
+  },
+  "keywords": [
+    "serverless",
+    "s3",
+    "plugin"
+  ],
+  "author": "PLAGR34GTT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLAGR34GTT/serverless-s3-bucket-clearer/issues"
+  },
+  "homepage": "https://github.com/PLAGR34GTT/serverless-s3-bucket-clearere#readme",
+  "dependencies": {
+    "aws-sdk": "^2.686.0"
+  },
+  "devDependencies": {}
+}
