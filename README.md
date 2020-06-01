@@ -13,7 +13,7 @@ plugins:
     - serverless-s3-bucket-clearer
 
 custom:
-    s3Clearer:
+    s3clear:
         enabled: false # default enabled
         buckets: #list of buckets to be emptied
             - your-bucket-1  
